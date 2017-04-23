@@ -1,0 +1,13 @@
+H:\RTEvents\obj\x86\Release\Interop.zkemkeeper.dll
+H:\RTEvents\obj\x86\Release\RTEvents.csproj.ResolveComReference.cache
+H:\RTEvents\bin\x86\Release\AdoreFPDemoApp.exe
+H:\RTEvents\bin\x86\Release\AdoreFPDemoApp.pdb
+H:\RTEvents\bin\x86\Release\Interop.zkemkeeper.dll
+H:\RTEvents\obj\x86\Release\ResolveAssemblyReference.cache
+H:\RTEvents\obj\x86\Release\RTEvents.RTEventsMain.resources
+H:\RTEvents\obj\x86\Release\AdoreFPDemoApp.Properties.Resources.resources
+H:\RTEvents\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+H:\RTEvents\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+H:\RTEvents\obj\x86\Release\AdoreFPDemoApp.exe
+H:\RTEvents\obj\x86\Release\AdoreFPDemoApp.pdb
+H:\RTEvents\bin\x86\Release\AdoreFPDemoApp.exe.config
